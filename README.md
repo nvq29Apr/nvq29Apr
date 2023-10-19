@@ -2,7 +2,7 @@
 
 **`Hanoi University of Science and Technology - Software Engineer`**
 
-I am a third-year student majoring in HEDSPI - School of Information and Communication Technology - Hanoi University of Science and Technology. My future goal is to become a full-stack website developer in Japan. This is because I have a strong passion for the culture and working environment in Japan, and I hope to live and work in the Land of the Rising Sun after graduation.
+I am a third-year student majoring in HEDSPI - School of Information and Communication Technology - Hanoi University of Science and Technology. My future goal is to become a System Engineer in Japan. This is because I have a strong passion for the culture and working environment in Japan, and I hope to live and work in the Land of the Rising Sun after graduation.
 
 #### JLPT N3 - 07/2023
 
